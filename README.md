@@ -12,7 +12,7 @@ This project demonstrates a regression analysis pipeline using Python, focusing 
 - [License](#license)
 
 ## Project Overview
-The goal of this project is to predict a target variable using regression models and evaluate their performance. Using the **California Housing Dataset** from Scikit-Learn, we aim to assess the models' accuracy by comparing their **Mean Squared Error (MSE)** and **R² score**.
+The goal of this project is to predict a target variable using regression models and evaluate their performance. Using the **California Housing Dataset** from Scikit-Learn, I aim to assess the models' accuracy by comparing their **Mean Squared Error (MSE)** and **R² score**.
 
 ## Dataset
 I use the **California Housing Dataset** from Scikit-Learn, which provides data on various features of housing in California.
